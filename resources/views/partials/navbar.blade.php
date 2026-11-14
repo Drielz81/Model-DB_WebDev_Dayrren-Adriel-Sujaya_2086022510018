@@ -32,20 +32,20 @@
                 class="flex flex-col gap-8 font-semibold text-sm text-slate-900 lg:text-slate-50 lg:flex-row max-lg:p-6 lg:ml-12 dark:text-slate-50">
                 <li>
                     <a href="{{ route('home') }}"
-                        class="inline-block rounded-xl bg-linear-to-r from-purple-600 to-blue-500 px-6 py-3 font-semibold text-white shadow-lg transition-all duration-300 ease-in-out hover:from-blue-600 hover:to-purple-500 hover:shadow-blue-500/50"
+                        class="inline-block rounded-xl bg-linear-to-r from-amber-400 to-zinc-950 px-6 py-3 font-semibold text-white shadow-lg transition-all duration-300 ease-in-out hover:from-blue-600 hover:to-purple-500 hover:shadow-blue-500/50"
                         aria-current="page">Home</a>
                 </li>
                 <li>
                     <a href="{{ route('about') }}"
-                        class="inline-block rounded-xl bg-linear-to-r from-purple-600 to-blue-500 px-6 py-3 font-semibold text-white shadow-lg transition-all duration-300 ease-in-out hover:from-blue-600 hover:to-purple-500 hover:shadow-blue-500/50">About</a>
+                        class="inline-block rounded-xl bg-linear-to-r from-amber-400 to-zinc-950 px-6 py-3 font-semibold text-white shadow-lg transition-all duration-300 ease-in-out hover:from-blue-600 hover:to-purple-500 hover:shadow-blue-500/50">About</a>
                 </li>
                 <li>
                     <a href="{{ route('blog') }}"
-                        class="inline-block rounded-xl bg-linear-to-r from-purple-600 to-blue-500 px-6 py-3 font-semibold text-white shadow-lg transition-all duration-300 ease-in-out hover:from-blue-600 hover:to-purple-500 hover:shadow-blue-500/50">Blog</a>
+                        class="inline-block rounded-xl bg-linear-to-r from-amber-400 to-zinc-950 px-6 py-3 font-semibold text-white shadow-lg transition-all duration-300 ease-in-out hover:from-blue-600 hover:to-purple-500 hover:shadow-blue-500/50">Blog</a>
                 </li>
                 <li>
                     <a href="{{ route('contact') }}"
-                        class="inline-block rounded-xl bg-linear-to-r from-purple-600 to-blue-500 px-6 py-3 font-semibold text-white shadow-lg transition-all duration-300 ease-in-out hover:from-blue-600 hover:to-purple-500 hover:shadow-blue-500/50">Contact</a>
+                        class="inline-block rounded-xl bg-linear-to-r from-amber-400 to-zinc-950 px-6 py-3 font-semibold text-white shadow-lg transition-all duration-300 ease-in-out hover:from-blue-600 hover:to-purple-500 hover:shadow-blue-500/50">Contact</a>
                 </li>
             </ul>
         </div>
